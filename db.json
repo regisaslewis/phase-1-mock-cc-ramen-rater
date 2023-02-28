@@ -39,6 +39,14 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "Slorp-Style Strings",
+      "restaurant": "Worms",
+      "image": "https://media.istockphoto.com/id/1144178043/photo/ramen-noodles-in-soy-sauce-flavored-soup.jpg?s=612x612&w=0&k=20&c=waI_rDcffAAkDunhBLVk90MIxKJne7pV-L7_zRLudyM=",
+      "rating": "4",
+      "comment": "It's gross",
+      "id": 6
     }
   ]
 }
